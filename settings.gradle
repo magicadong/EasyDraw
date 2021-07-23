@@ -1,0 +1,2 @@
+rootProject.name = "EasyDraw"
+include ':app'
